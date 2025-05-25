@@ -26,9 +26,9 @@ function Feedback() {
           </div>
           <div className="card-body d-flex flex-column justify-content-between">
             <div>
-              <h5 className="card-title">Feedback on Overall Website</h5>
+              <h5 className="card-title">Feedback on Overall Experience</h5>
               <p className="card-text">
-                Tell us what you think about the overall webapp design. Rate our
+                Rate our
                 webpage on various metrics like satisfaction, appearance,
                 usability etc.
               </p>

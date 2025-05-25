@@ -36,7 +36,7 @@ function Footer() {
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}} />
                             <p><Link to='/sign-kit/home' className='footer-link'>Home</Link></p>
                             <p><Link to='/sign-kit/feedback' className='footer-link'>Feedback</Link></p>
-                            <p><a href="https://github.com/spectre900/Audio-to-Sign-Language-using-3D-Avatars" className='footer-link'>Github repo</a></p>
+                            <p><a href="https://github.com/Manishka1/isl-sign-languag" className='footer-link'>Github repo</a></p>
                         </div>
 
                         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
@@ -44,10 +44,8 @@ function Footer() {
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}}/>
                             <p><i className="fa fa-lg fa-home me-3 ms-0"></i><span className='footer-text'> IET, Lucknow</span></p>
                             <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> manishka110518@gmail.com </span> </p>
-                            <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> rashichoudhary0001@gmail.com </span> </p>
-                            <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> payalsingh.111020@gmail.com </span> </p>
-                            <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> rimjhimchaurasia80@gmail.com </span> </p>
-                            
+                            <p><i className="fa fa-phone me-3 ms-0"></i><span className='footer-text'> + 91 8791396841 </span> </p>
+
                         </div>
                     </div>
                 </div>

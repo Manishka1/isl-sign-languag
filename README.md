@@ -9,7 +9,7 @@ Sign Language is a non-verbal and visual language that is widely used all over t
   - The 'api' branch contains the source code for the NodeJs based API of the system (hosted on Heroku). 
 - To run the client locally:
   - Clone the repo.
-    > git clone https://github.com/spectre900/Sign-Kit-An-Avatar-based-ISL-Toolkit.git
+    > git clone https://github.com/Manishka1/isl-sign-language.git
   - Checkout into the 'main' branch.
     > git checkout main
   - Enter the 'client' folder.
@@ -20,11 +20,13 @@ Sign Language is a non-verbal and visual language that is widely used all over t
     > npm start
   - The web app will open in your default browser.
 - To access the webapp directly:
-  > https://sign-kit.vercel.app/
+  > 
   
 ## Purpose  
 The project 'Sign Kit: An Avatar based Indian Sign Language Toolkit' has been created as a mini project for the course IT351- Human Computer Interaction. 
 
 ## Contributors  
-- Pratham Nayak (191IT241)  
-- Aprameya Dash (191IT209)
+- Manishka Singh 
+- Rashi Chaudhary
+- Rimjhim
+- Payal Singh
