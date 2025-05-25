@@ -22,7 +22,7 @@ Sign Language is a non-verbal and visual language that is widely used all over t
   > 
   
 ## Purpose  
-The project 'Sanket: An Avatar based Indian Sign Language Toolkit' has been created as a mini project for the course IT351- Human Computer Interaction. 
+The project 'Sanket: An Avatar based Indian Sign Language Toolkit' has been created as a major project for the course MCA. 
 
 ## Contributors  
 - Manishka Singh 
