@@ -50,7 +50,7 @@ function Footer() {
                     </div>
                 </div>
 
-                <div className="footer-copyright text-center py-3">© 2022 Copyright</div>
+                <div className="footer-copyright text-center py-3">© 2025 Copyright</div>
             </div>
             </footer>
     )
